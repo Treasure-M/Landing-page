@@ -1,21 +1,22 @@
-🌐 Live Demo: [https://ai-landing-page-demo.onrender.com
-](https://landing-page-xmv6.onrender.com)
-# Landing-page
+🌐 Live Demo: https://ai-landing-page-demo.onrender.com
 
-# Online Dessert Shop
+ Landing-page
 
-A simple online shop for desserts, built using HTML and CSS.
+🍰 Online Dessert Shop
 
-## Features
+A straightforward online shop for desserts, created using HTML and CSS.
 
-* Responsive design for mobile and desktop devices
-* Menu section with images and prices
-* Customer review section
-* Contact form
+Features
 
-## Usage
+* Responsive layout for mobile and desktop devices.
+* Menu area with pictures and prices.
+* Client review section.
+* Contact form.
 
-1. Clone the repository
-2. Open `index.html` in a web browser to view the shop
+ Usage
+
+1. Clone the repository.
+2. Open `index.html` in a web browser to view the shop.
+
 
 
